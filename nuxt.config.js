@@ -39,4 +39,11 @@ export default {
   build: {
     standalone: true
   },
+  buildModules: [
+      '@nuxtjs/dotenv'
+  ],
+  server: {
+    port: 80
+  }
+
 }
