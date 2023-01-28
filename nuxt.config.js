@@ -43,7 +43,7 @@ export default {
       '@nuxtjs/dotenv'
   ],
   server: {
-    port: 80
+    // port: 80
   }
 
 }
