@@ -75,7 +75,7 @@
 import axios from 'axios';
 
 const myAxios = axios.create({
-  baseURL: 'http://77.223.96.32:4000/',
+  baseURL: 'http://82.148.30.218:4000/',
   headers: {
     'Content-Type': 'application/json',
   },
